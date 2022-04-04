@@ -1,2 +1,4 @@
-# billerjx
-Biller Application using Java
+# billerjx Desktop Application
+Bill Application using Java
+
+Developer : Vivek Vijayan 🚀
